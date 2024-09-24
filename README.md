@@ -20,3 +20,7 @@ Error Handling: Implements robust error handling to manage exceptions gracefully
 
 -->Conclusion
 This Attendance Management System enhances the process of tracking student attendance through automation and modern technology, ultimately streamlining administrative tasks for educators.
+
+
+--> FOR ANY QUERY
+MAIL ID--priyanshu00909@gmail.com
